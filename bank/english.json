@@ -1,1 +1,690 @@
-{"v":1,"name":"english","items":[{"id":"e1","sub":"英语","ch":"语法","lvl":2,"stem":"The committee ______ divided in their opinions on the proposal.","opts":["was","were","is","has been"],"ans":1,"sol":"committee 作“委员会成员”讲时用复数谓语（英式习惯），divided in their opinions 说明这里指人。"},{"id":"e2","sub":"英语","ch":"词汇","lvl":2,"stem":"The word \"meticulous\" is closest in meaning to ______.","opts":["careless","extremely careful about detail","generous","hesitant"],"ans":1,"sol":"meticulous = 一丝不苟的、极其细致的，常与 attention to detail 搭配。"},{"id":"e3","sub":"英语","ch":"语法","lvl":3,"stem":"Not until he failed the exam ______ the importance of hard work.","opts":["he realized","did he realize","he did realize","realized he"],"ans":1,"sol":"Not until 置于句首引起部分倒装，主句用助动词提前：did he realize。"},{"id":"e4","sub":"英语","ch":"固定搭配","lvl":2,"stem":"The new regulation is subject ______ approval by the board.","opts":["to","for","of","with"],"ans":0,"sol":"be subject to = 受……支配/须经……，to 是介词，后接名词。"},{"id":"e5","sub":"英语","ch":"语法","lvl":2,"stem":"The number of students in our department ______ (be) increasing year by year.","type":"fill","ans":"is","sol":"the number of + 复数名词作主语，谓语用单数；a number of 才用复数。"},{"id":"e6","sub":"英语","ch":"词汇","lvl":2,"stem":"\"Deteriorate\" most nearly means ______.","opts":["improve gradually","become worse","remain stable","disappear suddenly"],"ans":1,"sol":"deteriorate = 恶化、变坏，名词形式 deterioration。"},{"id":"e7","sub":"英语","ch":"语法","lvl":2,"stem":"If I ______ you, I would take the offer.","opts":["am","was","were","be"],"ans":2,"sol":"与现在事实相反的虚拟语气，be 动词一律用 were。"},{"id":"e8","sub":"英语","ch":"语法","lvl":1,"stem":"This is the book ______ changed my life.","opts":["who","whom","which","what"],"ans":2,"sol":"先行词是物，关系代词用 which 或 that；what 不能引导定语从句。"},{"id":"e9","sub":"英语","ch":"词汇","lvl":2,"stem":"The outcome was ______: everyone had predicted it.","opts":["inevitable","optional","temporary","dubious"],"ans":0,"sol":"inevitable = 不可避免的。"},{"id":"e10","sub":"英语","ch":"词汇","lvl":2,"stem":"His answer was so ______ that nobody knew what he meant.","opts":["ambiguous","explicit","concise","obvious"],"ans":0,"sol":"ambiguous = 模棱两可的。"},{"id":"e11","sub":"英语","ch":"固定搭配","lvl":1,"stem":"Whether we go ahead depends ______ the budget.","opts":["on","of","for","with"],"ans":0,"sol":"depend on = 取决于、依赖。"},{"id":"e12","sub":"英语","ch":"语法","lvl":3,"stem":"______ the report, he submitted it to the board.","opts":["Finishing","Finished","Having finished","To finish"],"ans":2,"sol":"完成在先，用现在分词的完成式作状语。"},{"id":"e13","sub":"英语","ch":"语法","lvl":3,"stem":"Only when the war ended ______ return home.","opts":["he could","could he","he did","did he could"],"ans":1,"sol":"only + 状语从句置于句首，主句用部分倒装。"},{"id":"e14","sub":"英语","ch":"词汇","lvl":2,"stem":"The report gives a ______ overview of the whole field.","opts":["comprehensive","superficial","narrow","random"],"ans":0,"sol":"comprehensive = 全面的、综合的。"},{"id":"e15","sub":"英语","ch":"词汇","lvl":2,"stem":"The medicine helped ______ the pain.","opts":["alleviate","aggravate","accelerate","allocate"],"ans":0,"sol":"alleviate = 减轻（痛苦、问题）。"},{"id":"e16","sub":"英语","ch":"固定搭配","lvl":2,"stem":"______ of cost, the plan is acceptable.","opts":["In terms","On behalf","By means","At risk"],"ans":0,"sol":"in terms of = 就……而言。"},{"id":"e17","sub":"英语","ch":"词汇","lvl":2,"stem":"This view is ______ among young researchers.","opts":["prevalent","rare","obsolete","trivial"],"ans":0,"sol":"prevalent = 普遍的、流行的。"},{"id":"e18","sub":"英语","ch":"词汇","lvl":3,"stem":"The auditors ______ every transaction carefully.","opts":["scrutinized","skimmed","ignored","postponed"],"ans":0,"sol":"scrutinize = 仔细审查。"},{"id":"e19","sub":"英语","ch":"语法","lvl":2,"stem":"Each of the students ______ a copy of the syllabus.","opts":["have","has","are having","were"],"ans":1,"sol":"each of + 复数名词作主语，谓语用单数。"},{"id":"e20","sub":"英语","ch":"词汇","lvl":2,"stem":"Her explanation sounds ______, but it lacks evidence.","opts":["plausible","impossible","absurd","hostile"],"ans":0,"sol":"plausible = 看似合理的。"},{"id":"e21","sub":"英语","ch":"词汇","lvl":2,"stem":"Lack of sleep can ______ your ability to concentrate.","opts":["undermine","enhance","confirm","restore"],"ans":0,"sol":"undermine = 削弱、损害。"},{"id":"e22","sub":"英语","ch":"固定搭配","lvl":2,"stem":"The success is largely attributed ______ hard work.","opts":["to","for","with","at"],"ans":0,"sol":"be attributed to = 归因于。"},{"id":"e23","sub":"英语","ch":"词汇","lvl":2,"stem":"The paragraph is ______; the same idea appears three times.","opts":["redundant","essential","brief","clear"],"ans":0,"sol":"redundant = 多余的、累赘的。"},{"id":"e24","sub":"英语","ch":"词汇","lvl":2,"stem":"Is it ______ to finish the project within a week?","opts":["feasible","fragile","fatal","fictitious"],"ans":0,"sol":"feasible = 可行的。"},{"id":"e25","sub":"英语","ch":"语法","lvl":2,"stem":"The more you practise, ______ you become.","opts":["the better","better","the best","the good"],"ans":0,"sol":"the + 比较级，the + 比较级：越……越……。"},{"id":"e26","sub":"英语","ch":"词汇","lvl":3,"stem":"Curiosity is ______ to scientific research.","opts":["intrinsic","extrinsic","irrelevant","hostile"],"ans":0,"sol":"intrinsic = 内在的、固有的。"}]}
+{
+"v": 1,
+"name": "english",
+"count": 43,
+"items": [
+{
+"id": "e1",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"stem": "The committee ______ divided in their opinions on the proposal.",
+"opts": [
+"was",
+"were",
+"is",
+"has been"
+],
+"ans": 1,
+"sol": "committee 作“委员会成员”讲时用复数谓语（英式习惯），divided in their opinions 说明这里指人。",
+"src": "自编"
+},
+{
+"id": "e2",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "The word \"meticulous\" is closest in meaning to ______.",
+"opts": [
+"careless",
+"extremely careful about detail",
+"generous",
+"hesitant"
+],
+"ans": 1,
+"sol": "meticulous = 一丝不苟的、极其细致的，常与 attention to detail 搭配。",
+"src": "自编"
+},
+{
+"id": "e3",
+"sub": "英语",
+"ch": "语法",
+"lvl": 3,
+"stem": "Not until he failed the exam ______ the importance of hard work.",
+"opts": [
+"he realized",
+"did he realize",
+"he did realize",
+"realized he"
+],
+"ans": 1,
+"sol": "Not until 置于句首引起部分倒装，主句用助动词提前：did he realize。",
+"src": "自编"
+},
+{
+"id": "e4",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"stem": "The new regulation is subject ______ approval by the board.",
+"opts": [
+"to",
+"for",
+"of",
+"with"
+],
+"ans": 0,
+"sol": "be subject to = 受……支配/须经……，to 是介词，后接名词。",
+"src": "自编"
+},
+{
+"id": "e5",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"stem": "The number of students in our department ______ (be) increasing year by year.",
+"type": "fill",
+"ans": "is",
+"sol": "the number of + 复数名词作主语，谓语用单数；a number of 才用复数。",
+"src": "自编"
+},
+{
+"id": "e6",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "\"Deteriorate\" most nearly means ______.",
+"opts": [
+"improve gradually",
+"become worse",
+"remain stable",
+"disappear suddenly"
+],
+"ans": 1,
+"sol": "deteriorate = 恶化、变坏，名词形式 deterioration。",
+"src": "自编"
+},
+{
+"id": "e7",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"stem": "If I ______ you, I would take the offer.",
+"opts": [
+"am",
+"was",
+"were",
+"be"
+],
+"ans": 2,
+"sol": "与现在事实相反的虚拟语气，be 动词一律用 were。",
+"src": "自编"
+},
+{
+"id": "e8",
+"sub": "英语",
+"ch": "语法",
+"lvl": 1,
+"stem": "This is the book ______ changed my life.",
+"opts": [
+"who",
+"whom",
+"which",
+"what"
+],
+"ans": 2,
+"sol": "先行词是物，关系代词用 which 或 that；what 不能引导定语从句。",
+"src": "自编"
+},
+{
+"id": "e9",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "The outcome was ______: everyone had predicted it.",
+"opts": [
+"inevitable",
+"optional",
+"temporary",
+"dubious"
+],
+"ans": 0,
+"sol": "inevitable = 不可避免的。",
+"src": "自编"
+},
+{
+"id": "e10",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "His answer was so ______ that nobody knew what he meant.",
+"opts": [
+"ambiguous",
+"explicit",
+"concise",
+"obvious"
+],
+"ans": 0,
+"sol": "ambiguous = 模棱两可的。",
+"src": "自编"
+},
+{
+"id": "e11",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"stem": "Whether we go ahead depends ______ the budget.",
+"opts": [
+"on",
+"of",
+"for",
+"with"
+],
+"ans": 0,
+"sol": "depend on = 取决于、依赖。",
+"src": "自编"
+},
+{
+"id": "e12",
+"sub": "英语",
+"ch": "语法",
+"lvl": 3,
+"stem": "______ the report, he submitted it to the board.",
+"opts": [
+"Finishing",
+"Finished",
+"Having finished",
+"To finish"
+],
+"ans": 2,
+"sol": "完成在先，用现在分词的完成式作状语。",
+"src": "自编"
+},
+{
+"id": "e13",
+"sub": "英语",
+"ch": "语法",
+"lvl": 3,
+"stem": "Only when the war ended ______ return home.",
+"opts": [
+"he could",
+"could he",
+"he did",
+"did he could"
+],
+"ans": 1,
+"sol": "only + 状语从句置于句首，主句用部分倒装。",
+"src": "自编"
+},
+{
+"id": "e14",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "The report gives a ______ overview of the whole field.",
+"opts": [
+"comprehensive",
+"superficial",
+"narrow",
+"random"
+],
+"ans": 0,
+"sol": "comprehensive = 全面的、综合的。",
+"src": "自编"
+},
+{
+"id": "e15",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "The medicine helped ______ the pain.",
+"opts": [
+"alleviate",
+"aggravate",
+"accelerate",
+"allocate"
+],
+"ans": 0,
+"sol": "alleviate = 减轻（痛苦、问题）。",
+"src": "自编"
+},
+{
+"id": "e16",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"stem": "______ of cost, the plan is acceptable.",
+"opts": [
+"In terms",
+"On behalf",
+"By means",
+"At risk"
+],
+"ans": 0,
+"sol": "in terms of = 就……而言。",
+"src": "自编"
+},
+{
+"id": "e17",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "This view is ______ among young researchers.",
+"opts": [
+"prevalent",
+"rare",
+"obsolete",
+"trivial"
+],
+"ans": 0,
+"sol": "prevalent = 普遍的、流行的。",
+"src": "自编"
+},
+{
+"id": "e18",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 3,
+"stem": "The auditors ______ every transaction carefully.",
+"opts": [
+"scrutinized",
+"skimmed",
+"ignored",
+"postponed"
+],
+"ans": 0,
+"sol": "scrutinize = 仔细审查。",
+"src": "自编"
+},
+{
+"id": "e19",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"stem": "Each of the students ______ a copy of the syllabus.",
+"opts": [
+"have",
+"has",
+"are having",
+"were"
+],
+"ans": 1,
+"sol": "each of + 复数名词作主语，谓语用单数。",
+"src": "自编"
+},
+{
+"id": "e20",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "Her explanation sounds ______, but it lacks evidence.",
+"opts": [
+"plausible",
+"impossible",
+"absurd",
+"hostile"
+],
+"ans": 0,
+"sol": "plausible = 看似合理的。",
+"src": "自编"
+},
+{
+"id": "e21",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "Lack of sleep can ______ your ability to concentrate.",
+"opts": [
+"undermine",
+"enhance",
+"confirm",
+"restore"
+],
+"ans": 0,
+"sol": "undermine = 削弱、损害。",
+"src": "自编"
+},
+{
+"id": "e22",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"stem": "The success is largely attributed ______ hard work.",
+"opts": [
+"to",
+"for",
+"with",
+"at"
+],
+"ans": 0,
+"sol": "be attributed to = 归因于。",
+"src": "自编"
+},
+{
+"id": "e23",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "The paragraph is ______; the same idea appears three times.",
+"opts": [
+"redundant",
+"essential",
+"brief",
+"clear"
+],
+"ans": 0,
+"sol": "redundant = 多余的、累赘的。",
+"src": "自编"
+},
+{
+"id": "e24",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"stem": "Is it ______ to finish the project within a week?",
+"opts": [
+"feasible",
+"fragile",
+"fatal",
+"fictitious"
+],
+"ans": 0,
+"sol": "feasible = 可行的。",
+"src": "自编"
+},
+{
+"id": "e25",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"stem": "The more you practise, ______ you become.",
+"opts": [
+"the better",
+"better",
+"the best",
+"the good"
+],
+"ans": 0,
+"sol": "the + 比较级，the + 比较级：越……越……。",
+"src": "自编"
+},
+{
+"id": "e26",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 3,
+"stem": "Curiosity is ______ to scientific research.",
+"opts": [
+"intrinsic",
+"extrinsic",
+"irrelevant",
+"hostile"
+],
+"ans": 0,
+"sol": "intrinsic = 内在的、固有的。",
+"src": "自编"
+},
+{
+"id": "L183",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "“meticulous” 最接近的意思是？",
+"opts": [
+"粗心的",
+"极其细致的",
+"慷慨的",
+"犹豫的"
+],
+"ans": 1,
+"sol": "meticulous = 一丝不苟的。"
+},
+{
+"id": "L184",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "“deteriorate” 的意思是？",
+"opts": [
+"改善",
+"恶化",
+"保持",
+"消失"
+],
+"ans": 1,
+"sol": "deteriorate = 变坏。"
+},
+{
+"id": "L185",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "“ambiguous” 的意思是？",
+"opts": [
+"明确的",
+"模棱两可的",
+"复杂的",
+"简短的"
+],
+"ans": 1,
+"sol": "ambiguous = 有歧义的。"
+},
+{
+"id": "L186",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "“inevitable” 的意思是？",
+"opts": [
+"可避免的",
+"不可避免的",
+"可能的",
+"偶然的"
+],
+"ans": 1,
+"sol": "in- 否定 + evitable（可避免的）。"
+},
+{
+"id": "L187",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "“substantial” 的意思是？",
+"opts": [
+"少量的",
+"大量的、实质的",
+"表面的",
+"临时的"
+],
+"ans": 1,
+"sol": "substantial = 可观的、实质的。"
+},
+{
+"id": "L188",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "“compensate” 常与哪个介词搭配？",
+"opts": [
+"for",
+"to",
+"with",
+"of"
+],
+"ans": 0,
+"sol": "compensate for 补偿。"
+},
+{
+"id": "L189",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "The committee ___ divided in their opinions.",
+"opts": [
+"was",
+"were",
+"is",
+"has been"
+],
+"ans": 1,
+"sol": "指成员时用复数。"
+},
+{
+"id": "L190",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "Not until he failed ___ the importance of hard work.",
+"opts": [
+"he realized",
+"did he realize",
+"he did realize",
+"realized he"
+],
+"ans": 1,
+"sol": "Not until 置句首引起部分倒装。"
+},
+{
+"id": "L191",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "The number of students ___ increasing.",
+"opts": [
+"are",
+"is",
+"were",
+"have been"
+],
+"ans": 1,
+"sol": "the number of 作主语用单数。"
+},
+{
+"id": "L192",
+"sub": "英语",
+"ch": "语法",
+"lvl": 3,
+"src": "练习",
+"stem": "It is high time that we ___ the problem.",
+"opts": [
+"solve",
+"solved",
+"will solve",
+"have solved"
+],
+"ans": 1,
+"sol": "It is high time that + 过去式（虚拟）。"
+},
+{
+"id": "L193",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "He is the only one of the students who ___ passed.",
+"opts": [
+"have",
+"has",
+"are",
+"were"
+],
+"ans": 1,
+"sol": "who 指 the only one，用单数。"
+},
+{
+"id": "L194",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "Hardly ___ the room when the phone rang.",
+"opts": [
+"he had entered",
+"had he entered",
+"he entered",
+"did he enter"
+],
+"ans": 1,
+"sol": "Hardly 置首用倒装 + 过去完成。"
+},
+{
+"id": "L195",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "be subject ___ approval",
+"opts": [
+"to",
+"for",
+"of",
+"with"
+],
+"ans": 0,
+"sol": "be subject to 须经……。"
+},
+{
+"id": "L196",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "in spite ___ the rain",
+"opts": [
+"of",
+"for",
+"to",
+"with"
+],
+"ans": 0,
+"sol": "in spite of 尽管。"
+},
+{
+"id": "L197",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "be immune ___ the disease",
+"opts": [
+"to",
+"for",
+"from",
+"with"
+],
+"ans": 0,
+"sol": "be immune to 对……免疫。"
+},
+{
+"id": "L198",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "take advantage ___ the opportunity",
+"opts": [
+"of",
+"for",
+"to",
+"on"
+],
+"ans": 0,
+"sol": "take advantage of 利用。"
+},
+{
+"id": "L199",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "be consistent ___ his words",
+"opts": [
+"with",
+"to",
+"in",
+"of"
+],
+"ans": 0,
+"sol": "be consistent with 与……一致。"
+}
+]
+}
