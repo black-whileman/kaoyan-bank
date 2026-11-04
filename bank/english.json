@@ -1,7 +1,7 @@
 {
 "v": 1,
 "name": "english",
-"count": 43,
+"count": 92,
 "items": [
 {
 "id": "e1",
@@ -65,17 +65,6 @@
 ],
 "ans": 0,
 "sol": "be subject to = 受……支配/须经……，to 是介词，后接名词。",
-"src": "自编"
-},
-{
-"id": "e5",
-"sub": "英语",
-"ch": "语法",
-"lvl": 2,
-"stem": "The number of students in our department ______ (be) increasing year by year.",
-"type": "fill",
-"ans": "is",
-"sol": "the number of + 复数名词作主语，谓语用单数；a number of 才用复数。",
 "src": "自编"
 },
 {
@@ -685,6 +674,806 @@
 ],
 "ans": 0,
 "sol": "be consistent with 与……一致。"
+},
+{
+"id": "B373",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "The new policy will ______ the burden on students.",
+"opts": [
+"alleviate",
+"elevate",
+"allocate",
+"alienate"
+],
+"ans": 0,
+"sol": "alleviate 意为减轻；elevate 提升，allocate 分配，alienate 疏远。"
+},
+{
+"id": "B374",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "His remarks were so ______ that nobody could understand his real intention.",
+"opts": [
+"ambitious",
+"ambiguous",
+"amiable",
+"amicable"
+],
+"ans": 1,
+"sol": "ambiguous 意为模棱两可的；ambitious 有雄心的，amiable 和蔼的，amicable 友好的。"
+},
+{
+"id": "B375",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 1,
+"src": "练习",
+"stem": "The committee decided to ______ the meeting until next week.",
+"opts": [
+"impose",
+"pose",
+"postpone",
+"compose"
+],
+"ans": 2,
+"sol": "postpone 意为推迟；pose 提出，impose 强加，compose 组成。"
+},
+{
+"id": "B376",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "The scientist's theory was eventually ______ by experimental evidence.",
+"opts": [
+"confronted",
+"confined",
+"confessed",
+"confirmed"
+],
+"ans": 3,
+"sol": "confirm 意为证实；confine 限制，confess 坦白，confront 面对。"
+},
+{
+"id": "B377",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "She was ______ for her outstanding contribution to education.",
+"opts": [
+"commended",
+"commanded",
+"commenced",
+"committed"
+],
+"ans": 0,
+"sol": "commend 意为表扬；command 命令，commence 开始，commit 犯（错）。"
+},
+{
+"id": "B378",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "The government has taken measures to ______ inflation.",
+"opts": [
+"cure",
+"curb",
+"curl",
+"cultivate"
+],
+"ans": 1,
+"sol": "curb 意为抑制；cure 治愈，curl 卷曲，cultivate 培养。"
+},
+{
+"id": "B379",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "The two countries agreed to ______ diplomatic relations.",
+"opts": [
+"consume",
+"assume",
+"resume",
+"presume"
+],
+"ans": 2,
+"sol": "resume 意为恢复；assume 假定，consume 消耗，presume 推测。"
+},
+{
+"id": "B380",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "His argument is ______; it lacks sufficient evidence.",
+"opts": [
+"fluctuated",
+"flushed",
+"flourished",
+"flawed"
+],
+"ans": 3,
+"sol": "flawed 意为有缺陷的；flushed 脸红的，flourished 繁荣的，fluctuated 波动的。"
+},
+{
+"id": "B381",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "The company was forced to ______ its workforce due to the recession.",
+"opts": [
+"reduce",
+"deduce",
+"induce",
+"produce"
+],
+"ans": 0,
+"sol": "reduce 意为减少；deduce 推断，induce 引诱，produce 生产。"
+},
+{
+"id": "B382",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 3,
+"src": "练习",
+"stem": "The professor's lecture was ______ with interesting examples.",
+"opts": [
+"interrupted",
+"interspersed",
+"interfered",
+"intervened"
+],
+"ans": 1,
+"sol": "be interspersed with 意为穿插着；interrupt 打断，interfere 干涉，intervene 干预。"
+},
+{
+"id": "B383",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 1,
+"src": "练习",
+"stem": "The project is ______ to be completed by June.",
+"opts": [
+"probable",
+"possible",
+"likely",
+"liable"
+],
+"ans": 2,
+"sol": "be likely to do 意为可能做；possible 和 probable 不接不定式，liable 多指易于遭受。"
+},
+{
+"id": "B384",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 1,
+"src": "练习",
+"stem": "The manager tried to ______ the staff's concerns.",
+"opts": [
+"assess",
+"dress",
+"access",
+"address"
+],
+"ans": 3,
+"sol": "address 意为处理、回应；dress 穿衣，access 进入，assess 评估。"
+},
+{
+"id": "B385",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "The new evidence may ______ his innocence.",
+"opts": [
+"establish",
+"install",
+"ensure",
+"insure"
+],
+"ans": 0,
+"sol": "establish 意为确立、证实；install 安装，ensure 确保，insure 投保。"
+},
+{
+"id": "B386",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 3,
+"src": "练习",
+"stem": "The novel offers a vivid ______ of life in rural China.",
+"opts": [
+"prediction",
+"depiction",
+"deprivation",
+"deduction"
+],
+"ans": 1,
+"sol": "depiction 意为描绘；prediction 预测，deprivation 剥夺，deduction 推论。"
+},
+{
+"id": "B387",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "The judge found the evidence ______ and dismissed the case.",
+"opts": [
+"ineffective",
+"inefficient",
+"insufficient",
+"inevitable"
+],
+"ans": 2,
+"sol": "insufficient 意为不充分的；inefficient 低效的，ineffective 无效的，inevitable 不可避免的。"
+},
+{
+"id": "B388",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 1,
+"src": "练习",
+"stem": "The scientist's findings ______ the existing theory.",
+"opts": [
+"chase",
+"change",
+"charge",
+"challenge"
+],
+"ans": 3,
+"sol": "challenge 意为挑战、质疑；change 改变，charge 收费、指控，chase 追逐。"
+},
+{
+"id": "B389",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 1,
+"src": "练习",
+"stem": "She spoke with great ______ about her research.",
+"opts": [
+"enthusiasm",
+"entitlement",
+"enterprise",
+"entrance"
+],
+"ans": 0,
+"sol": "enthusiasm 意为热情；entitlement 权利，enterprise 企业，entrance 入口。"
+},
+{
+"id": "B390",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "The two theories are mutually ______; both cannot be true.",
+"opts": [
+"excessive",
+"exclusive",
+"expressive",
+"expansive"
+],
+"ans": 1,
+"sol": "mutually exclusive 意为互相排斥的；excessive 过度的，expressive 富有表现力的，expansive 广阔的。"
+},
+{
+"id": "B391",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 1,
+"src": "练习",
+"stem": "The company's profits have ______ sharply over the past year.",
+"opts": [
+"declared",
+"inclined",
+"declined",
+"decorated"
+],
+"ans": 2,
+"sol": "decline 意为下降；incline 倾向，declare 宣布，decorate 装饰。"
+},
+{
+"id": "B392",
+"sub": "英语",
+"ch": "词汇",
+"lvl": 2,
+"src": "练习",
+"stem": "We should not ______ the importance of teamwork.",
+"opts": [
+"underlie",
+"undertake",
+"undergo",
+"underestimate"
+],
+"ans": 3,
+"sol": "underestimate 意为低估；undertake 承担，undergo 经历，underlie 构成……的基础。"
+},
+{
+"id": "B393",
+"sub": "英语",
+"ch": "语法",
+"lvl": 1,
+"src": "练习",
+"stem": "The book, ______ was published last year, has become a bestseller.",
+"opts": [
+"which",
+"that",
+"what",
+"it"
+],
+"ans": 0,
+"sol": "非限制性定语从句用 which 引导，不能用 that。"
+},
+{
+"id": "B394",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "______ he arrived home did he realize he had left his keys in the office.",
+"opts": [
+"When",
+"Only when",
+"Only",
+"As"
+],
+"ans": 1,
+"sol": "Only when 置于句首，主句用部分倒装 did he realize。"
+},
+{
+"id": "B395",
+"sub": "英语",
+"ch": "语法",
+"lvl": 1,
+"src": "练习",
+"stem": "If I ______ you, I would accept the offer.",
+"opts": [
+"am",
+"was",
+"were",
+"be"
+],
+"ans": 2,
+"sol": "与现在事实相反的虚拟语气，be 动词统一用 were。"
+},
+{
+"id": "B396",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "The teacher demanded that the homework ______ on time.",
+"opts": [
+"is handed in",
+"handed in",
+"was handed in",
+"be handed in"
+],
+"ans": 3,
+"sol": "demand 后的宾语从句用虚拟语气 (should) be done，此处为被动。"
+},
+{
+"id": "B397",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "______ from the top of the hill, the city looks beautiful.",
+"opts": [
+"Seen",
+"Seeing",
+"To see",
+"See"
+],
+"ans": 0,
+"sol": "city 与 see 是被动关系，用过去分词 Seen 作状语。"
+},
+{
+"id": "B398",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "It is important that every student ______ the rule.",
+"opts": [
+"obeys",
+"obey",
+"obeyed",
+"will obey"
+],
+"ans": 1,
+"sol": "It is important that 后的主语从句用虚拟语气 (should) do，故用动词原形。"
+},
+{
+"id": "B399",
+"sub": "英语",
+"ch": "语法",
+"lvl": 3,
+"src": "练习",
+"stem": "Hardly ______ the station when the train left.",
+"opts": [
+"did he reach",
+"he had reached",
+"had he reached",
+"he reached"
+],
+"ans": 2,
+"sol": "Hardly 置于句首，主句用过去完成时部分倒装 had he reached。"
+},
+{
+"id": "B400",
+"sub": "英语",
+"ch": "语法",
+"lvl": 1,
+"src": "练习",
+"stem": "The reason ______ he was late was that he missed the bus.",
+"opts": [
+"for",
+"which",
+"because",
+"why"
+],
+"ans": 3,
+"sol": "先行词 reason 在定语从句中作原因状语，用 why 引导。"
+},
+{
+"id": "B401",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "Neither the students nor the teacher ______ aware of the change.",
+"opts": [
+"was",
+"were",
+"are",
+"be"
+],
+"ans": 0,
+"sol": "neither...nor... 遵循就近原则，谓语与 teacher 一致，用 was。"
+},
+{
+"id": "B402",
+"sub": "英语",
+"ch": "语法",
+"lvl": 3,
+"src": "练习",
+"stem": "______ more time, we could have finished the work.",
+"opts": [
+"Giving",
+"Given",
+"To give",
+"Give"
+],
+"ans": 1,
+"sol": "Given 意为如果给予，过去分词作条件状语，主语 we 与 give 是被动关系。"
+},
+{
+"id": "B403",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "The meeting ______ tomorrow will focus on the budget.",
+"opts": [
+"holding",
+"held",
+"to be held",
+"hold"
+],
+"ans": 2,
+"sol": "会议尚未举行且为被动，用不定式的被动式 to be held 作后置定语。"
+},
+{
+"id": "B404",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "I wish I ______ more attention to my studies last year.",
+"opts": [
+"would pay",
+"paid",
+"pay",
+"had paid"
+],
+"ans": 3,
+"sol": "wish 后与过去事实相反，从句用过去完成时 had paid。"
+},
+{
+"id": "B405",
+"sub": "英语",
+"ch": "语法",
+"lvl": 3,
+"src": "练习",
+"stem": "She is the only one of the students who ______ the answer.",
+"opts": [
+"knows",
+"know",
+"knowing",
+"known"
+],
+"ans": 0,
+"sol": "the only one of the students 作先行词时，定语从句谓语与 one 一致，用单数 knows。"
+},
+{
+"id": "B406",
+"sub": "英语",
+"ch": "语法",
+"lvl": 2,
+"src": "练习",
+"stem": "Not until midnight ______ the work.",
+"opts": [
+"he finished",
+"did he finish",
+"he did finish",
+"he had finished"
+],
+"ans": 1,
+"sol": "Not until 置于句首，主句用部分倒装 did he finish。"
+},
+{
+"id": "B407",
+"sub": "英语",
+"ch": "语法",
+"lvl": 1,
+"src": "练习",
+"stem": "The harder you work, ______ progress you will make.",
+"opts": [
+"the most",
+"more",
+"the more",
+"most"
+],
+"ans": 2,
+"sol": "the + 比较级..., the + 比较级... 表示越……越……。"
+},
+{
+"id": "B408",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"src": "练习",
+"stem": "The government must ______ measures to control pollution.",
+"opts": [
+"perform",
+"make",
+"do",
+"take"
+],
+"ans": 3,
+"sol": "take measures 意为采取措施。"
+},
+{
+"id": "B409",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"src": "练习",
+"stem": "She ______ advantage of the opportunity to study abroad.",
+"opts": [
+"took",
+"made",
+"got",
+"had"
+],
+"ans": 0,
+"sol": "take advantage of 意为利用。"
+},
+{
+"id": "B410",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"src": "练习",
+"stem": "He is ______ charge of the marketing department.",
+"opts": [
+"on",
+"in",
+"at",
+"for"
+],
+"ans": 1,
+"sol": "in charge of 意为负责、主管。"
+},
+{
+"id": "B411",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "We should ______ use of the available resources.",
+"opts": [
+"do",
+"take",
+"make",
+"get"
+],
+"ans": 2,
+"sol": "make use of 意为利用。"
+},
+{
+"id": "B412",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "The manager ______ great emphasis on teamwork.",
+"opts": [
+"did",
+"took",
+"made",
+"placed"
+],
+"ans": 3,
+"sol": "place emphasis on 意为强调。"
+},
+{
+"id": "B413",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "She ______ a great deal of effort into the project.",
+"opts": [
+"put",
+"took",
+"made",
+"did"
+],
+"ans": 0,
+"sol": "put effort into 意为把精力投入……。"
+},
+{
+"id": "B414",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"src": "练习",
+"stem": "The new law will ______ effect next month.",
+"opts": [
+"make",
+"take",
+"bring",
+"come"
+],
+"ans": 1,
+"sol": "take effect 意为生效。"
+},
+{
+"id": "B415",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"src": "练习",
+"stem": "He ______ no attention to the warning.",
+"opts": [
+"made",
+"took",
+"paid",
+"gave"
+],
+"ans": 2,
+"sol": "pay attention to 意为注意。"
+},
+{
+"id": "B416",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 3,
+"src": "练习",
+"stem": "The company is ______ the verge of bankruptcy.",
+"opts": [
+"under",
+"in",
+"at",
+"on"
+],
+"ans": 3,
+"sol": "on the verge of 意为濒临……。"
+},
+{
+"id": "B417",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "We must ______ account of the potential risks.",
+"opts": [
+"take",
+"make",
+"have",
+"put"
+],
+"ans": 0,
+"sol": "take account of 意为考虑到。"
+},
+{
+"id": "B418",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"src": "练习",
+"stem": "The two sides finally ______ an agreement.",
+"opts": [
+"arrived",
+"reached",
+"got",
+"came"
+],
+"ans": 1,
+"sol": "reach an agreement 意为达成协议。"
+},
+{
+"id": "B419",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"src": "练习",
+"stem": "I'm ______ favor of the proposal.",
+"opts": [
+"at",
+"on",
+"in",
+"for"
+],
+"ans": 2,
+"sol": "in favor of 意为赞成。"
+},
+{
+"id": "B420",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "The issue is ______ great importance.",
+"opts": [
+"for",
+"in",
+"with",
+"of"
+],
+"ans": 3,
+"sol": "be of importance 意为具有重要性。"
+},
+{
+"id": "B421",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 1,
+"src": "练习",
+"stem": "He ______ part in the debate.",
+"opts": [
+"took",
+"made",
+"played",
+"did"
+],
+"ans": 0,
+"sol": "take part in 意为参加。"
+},
+{
+"id": "B422",
+"sub": "英语",
+"ch": "固定搭配",
+"lvl": 2,
+"src": "练习",
+"stem": "She is ______ good terms with her colleagues.",
+"opts": [
+"in",
+"on",
+"at",
+"with"
+],
+"ans": 1,
+"sol": "on good terms with 意为与……关系良好。"
 }
 ]
 }
